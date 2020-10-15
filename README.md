@@ -22,7 +22,7 @@ In another life, I used to a be a virtual nomad, running an online e-commerce bu
 ---
   * Currently contemplating ▻ / "How we here for code?" \ / "How is code here for us?" \
 
-  * Currently learning / exploring ▻ SASS & GSAP
+  * Currently exploring / learning ▻ SASS & GSAP
 
 <!--
 **Annalise-M/Annalise-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
