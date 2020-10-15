@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Welcome to my Git Hub! ###
 ◬ My name is Annalise Murphy. I'm a full stack software engineer with a penchant for problem solving and pattern mapping. Always looking to improve the world through code. A TDD focused full-stack software engineer, I have experience with many different modern web technologies, including React.js, Node.js, & PostgresSQL.
 In another life, I used to a be a virtual nomad, running an online e-commerce business on my computer from who knows where in the world! Some point along the way, I missed contributing to a team and became more curious about the systems that ran the platforms I'd been working with, for so long. 
 
