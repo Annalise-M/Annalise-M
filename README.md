@@ -2,7 +2,7 @@
 
 ◬ My name is Annalise Murphy. I'm a TDD focused full-stack software engineer with a passion for problem solving and pattern mapping. I have experience with many different modern web technologies, including React.js, Node.js & PostgresSQL and am always looking for way to improve the world through code.
 
-In another life, I used to a be a virtual nomad, running an online e-commerce business on my computer from  in the world. Some point along the way, I missed contributing to a team and became more curious about how I may someday improve the systems that ran the platforms I'd been working on for so long.
+◬ In another life, I used to a be a virtual nomad, running an online e-commerce business on my computer from  in the world. Some point along the way, I missed contributing to a team and became more curious about how I may someday improve the systems that ran the platforms I'd been working on for so long.
 
 ⋖ Tech Stack ⋗
 ---
