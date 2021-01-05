@@ -23,9 +23,9 @@
   * Dev Practices ▻ TDD, Remote, Pair & Mob virtual programming
 
 ---
-  * 🤔 Currently contemplating ▻ / "How we here for code?" \ / "How is code here for us?" \
+  🤔 Currently contemplating ▻ / "How we here for code?" \ / "How is code here for us?" \
 
-  * 🌱 Currently learning ▻ GSAP + Anime.js
+  🌱 Currently learning ▻ GSAP + Anime.js
 
 <!--
 **Annalise-M/Annalise-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
