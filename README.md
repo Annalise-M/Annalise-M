@@ -22,8 +22,10 @@
   
   * Dev Practices ▻ TDD, Remote, Pair & Mob virtual programming
 
+  * Animation libraries ▻ GSAP + Anime.js
+
 ---
-  🌱 Currently exploring ▻ GSAP + Anime.js
+  🌱 Currently exploring ▻ Ruby + Ruby Rails
   
   🤔 Currently contemplating ▻ / "How we here for code?" \ / "How is code here for us?" \
 
