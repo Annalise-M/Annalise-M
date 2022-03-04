@@ -25,7 +25,7 @@
   * Animation libraries ▻ GSAP, Anime.js, Three.js
 
 ---
-  🌱 Currently exploring ▻ D3.js
+  🌱 Currently exploring ▻ D3.js & Typescript
   
   🤔 Currently contemplating ▻ / "How we here for code?" \ / "How is code here for us?" \
 
