@@ -10,7 +10,7 @@
   
   * Back-End ▻ Node.js, Express
   
-  * Front-End ▻ React
+  * Front-End ▻ React, Typescript
   
   * Frameworks ▻ Redux, MobX
   
@@ -25,7 +25,7 @@
   * Animation libraries ▻ GSAP, Anime.js, Three.js
 
 ---
-  🌱 Currently exploring ▻ D3.js & Typescript
+  🌱 Currently exploring ▻ D3.js & Astro.js 
   
   🤔 Currently contemplating ▻ / "How we here for code?" \ / "How is code here for us?" \
 
