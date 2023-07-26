@@ -1,8 +1,10 @@
 ### Welcome to my Git Hub! <img src="https://emojis.slackmojis.com/emojis/images/1554740062/5584/deployparrot.gif?1554740062" width="20"/> <img src="https://emojis.slackmojis.com/emojis/images/1490884209/1972/star.gif?1490884209" width="20"/>
 
-◬ My name is Annalise Murphy. I'm a TDD focused software engineer with a passion for problem solving and pattern mapping. I have experience with many different modern web technologies, including React, Node.js & PostgreSQL and am always looking for way to improve the world through code.
+◬ As an adaptive and flexible full-stack software engineer, I have a passion for teamwork, problem-solving, and pattern mapping. I have experience with many different modern web technologies including React.js, Typescript, Node.js & PostgreSQL, and am always exploring new ways to improve the world through code.
 
-◬ In another life, I used to a be a virtual nomad, running an online e-commerce business on my computer from anywhere in the world. Some point along the way, I missed contributing to a team and became more curious about how I may someday improve the systems that ran the platforms I'd been working on for so long.
+Currently inspired by the latest in 3D animation(s) through programming (GSAP & Three.js).
+
+◬ In another life, I used to be a virtual nomad, running an online e-commerce business on my computer from anywhere in the world. At some point along the way, I missed contributing to a team and became more curious about how I may someday improve the systems that ran the platforms I'd been working on for so long.
 
 ⋖ Tech Stack ⋗
 ---
