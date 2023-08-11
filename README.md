@@ -1,6 +1,6 @@
 ### Welcome to my Git Hub! <img src="https://emojis.slackmojis.com/emojis/images/1554740062/5584/deployparrot.gif?1554740062" width="20"/> <img src="https://emojis.slackmojis.com/emojis/images/1490884209/1972/star.gif?1490884209" width="20"/>
 
-◬ As an adaptive and flexible full-stack software engineer, I have a passion for teamwork, problem-solving, and pattern mapping. I have experience with many different modern web technologies including React.js, Typescript, Node.js & PostgreSQL, and am always exploring new ways to improve the world through code.
+◬ As an adaptive, fast-learning, flexible full-stack software engineer, I am an innovative thinker, with a growth mindset and a passion for teamwork, problem-solving, and pattern mapping. I have experience with many different modern web technologies including React.js, Typescript, Node.js & PostgreSQL, while constantly exploring new ways to improve the world through code.
 
 Currently inspired by the latest in 3D animation(s) through programming (GSAP & Three.js).
 
